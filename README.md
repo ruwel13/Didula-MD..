@@ -31,17 +31,6 @@ This is Didula MD, A WhatsApp Bot Created by Didula Rashmika, Enhanced with Amaz
 ## 📦 Installation
 
 
-- [Fork this repository](https://github.com/itsme-didularashmika/Didula-MD/fork)
-
-- [Download this repository](https://github.com/itsme-didularashmika/Didula-MD/archive/refs/heads/main.zip)
-
-- [Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/itsme-didularashmika/Didula-MD)
-
-- [Deploy to Termux](https://github.com/itsme-didularashmika/Didula-MD#termux-deployment)
-
-- [Deploy Panel](#panel-deployment)
-
-
 ## 📞 Connect on WhatsApp
 
 - [Contact Me on WhatsApp](https://wa.me/+94771820962)
