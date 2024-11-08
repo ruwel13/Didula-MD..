@@ -1,15 +1,15 @@
 {
-  "name": "Didula MD",
+  "name": "Didula-MD",
   "version": "10.8.1",
-  "description": "Ethix-MD latest multi device whatsapp bot",
+  "description": "Didula-MD latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Ethix-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name Didula-MD",
     "stop": "pm2 stop Didula-MD",
-    "restart": "pm2 restart Ethix-MD"
+    "restart": "pm2 restart Didula-MD"
   },
-  "keywords": ["ethix-md", "whatsapp-bot", "whatsapp md bot"],
+  "keywords": ["didula-md", "whatsapp-bot", "whatsapp md bot"],
   "author": "Didula",
   "license": "ISC",
   "dependencies": {
