@@ -1,5 +1,12 @@
 
-# Didula MD
+ <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+<body>
+    <h1>Didula MD</h1>
+    <p>best private whatsapp bot:</p>
+    <img src="https://i.ibb.co/m9K1Xqt/Picsart-24-11-08-11-05-17-493.jpg" alt="Description of image" width="600" height="400">
+
 
 This is Didula MD, A WhatsApp Bot Created by Didula Rashmika, Enhanced with Amazing Features to Elevate Your WhatsApp Experience.
 
