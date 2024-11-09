@@ -43,7 +43,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
  Get your `creds.json` and upload ton `session folder`
  
-<a href='[https://pair-site-team-inc-pair.onrender.com/pair](https://pair-site-team-inc-pair.onrender.com/pair)' target="_blank"><img alt='Get Creds.json' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='[https://pair-site-team-inc-pair.onrender.com/pair]([https://pair-site-team-inc-pair.onrender.com/pair](https://pair-site-team-inc-pair.onrender.com/pair))' target="_blank"><img alt='Get Creds.json' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 ## 🚀 Deployment Options
 
