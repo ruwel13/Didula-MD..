@@ -37,7 +37,7 @@ To get started with Didula-MD, follow these steps:
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-<a href='https://pair-site-team-inc-pair.onrender.com/pair' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/itsme-didularashmika/Didula-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. Get Session ID via Pair Code
 
