@@ -47,7 +47,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 ## 🚀 Deployment Options
 
-[Deploy on Free Panel](https://whatsapp.com/channel/0029VaqqF4GDTkJwKruLSK2f/9223372036854675807)
+## [`Deploy on Free Panel`](https://whatsapp.com/channel/0029VaqqF4GDTkJwKruLSK2f/9223372036854675807)
 
 ## 📞 Connect on WhatsApp
 
